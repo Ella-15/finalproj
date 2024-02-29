@@ -35,5 +35,3 @@ https://github.com/Ella-15/finalproj/assets/160810814/b0432547-3457-455f-9e79-65
 
 
 
-https://github.com/Ella-15/finalproj/assets/160810814/2c86df69-5502-452c-a5c1-b2dac8910598
-
