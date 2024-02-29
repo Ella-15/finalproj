@@ -29,3 +29,11 @@ JAVASCRIPT
 
 ![Screenshot (376)](https://github.com/Ella-15/finalproj/assets/160810814/dfa77833-e6e7-459e-864f-1df3b7a08885)
 
+
+
+https://github.com/Ella-15/finalproj/assets/160810814/b0432547-3457-455f-9e79-659e2b59adeb
+
+
+
+https://github.com/Ella-15/finalproj/assets/160810814/2c86df69-5502-452c-a5c1-b2dac8910598
+
