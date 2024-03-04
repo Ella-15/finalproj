@@ -19,5 +19,8 @@ CSS
 JAVASCRIPT
 
 
-
-
+![Screenshot (379)](https://github.com/Ella-15/finalproj/assets/160810814/a96f0858-ab81-4837-9cf2-39da46e53339)
+![Screenshot (381)](https://github.com/Ella-15/finalproj/assets/160810814/363b0df0-cc99-4f42-944c-5105c2de0b3a)
+![Screenshot (382)](https://github.com/Ella-15/finalproj/assets/160810814/2dddb7aa-7019-423b-bba7-9be3132e5c2b)
+![Screenshot (383)](https://github.com/Ella-15/finalproj/assets/160810814/22b28e3d-4681-4846-95b0-6add38629192)
+![Screenshot (384)](https://github.com/Ella-15/finalproj/assets/160810814/7f5a5cd9-30c6-40ed-b958-4ef0eaccad76)
