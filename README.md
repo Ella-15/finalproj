@@ -1,4 +1,4 @@
-# finalproj
+# finalproject
 
 𝐓𝐎𝐏𝐈𝐂: 𝐏𝐇𝐎𝐓𝐎𝐆𝐄𝐍𝐈𝐂 𝐔𝐒
 
