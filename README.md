@@ -1,10 +1,10 @@
 # finalproj
-this is  my final intern project.
+Hello everyone I am Deepti Doiphode and I have come up with an idea of a photography website as in today's date all of us love taking pictures and post them on social media to show and flaunt  our talent and beauty. Photography and videography is used to capture memories and moments to be kept with us and recollected for a life time.
 #azure link https://lively-stone-0079e9800.4.azurestaticapps.net/
 
 𝐓𝐎𝐏𝐈𝐂: 𝐏𝐇𝐎𝐓𝐎𝐆𝐄𝐍𝐈𝐂 𝐔𝐒
 
-Hello everyone I am Deepti Doiphode and I have come up with an idea of a photography website as in today's date all of us love taking pictures and post them on social media to show and flaunt  our talent and beauty.Our website is platform for photographers to showcase their talent and for  customers to  get in touch with photographers according to their requirement. 
+Our website is platform for photographers to showcase their talent and for  customers to  get in touch with photographers according to their requirement.Our website aims to give you all the memories you can make for a lifetime.
 
 𝐈𝐌𝐀𝐆𝐄𝐒:
 
